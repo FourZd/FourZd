@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FourZd, aka Nikolay Ryaskov
 - 👀 I’m interested in Python coding, JS learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently creating things on Python
 - 💞️ I’m looking to Python Junior job.
 - 📫 How to reach me @Forzzy TG
