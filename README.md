@@ -5,6 +5,9 @@
 - 📫 How to reach me @Forzzy TG
 
 My STACK:
+
 Python: Django, Django Rest Framework, web3, asyncio, requests, stripe, peewee
+
 JS: React.JS.
+
 Side-technologies: Docker, Bootstrap, NGINX, Gunicorn, AWS deploy, blockchains. HTML, CSS
