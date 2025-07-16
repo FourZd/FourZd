@@ -1,6 +1,5 @@
-<div align="center">
-  ![e54afabd75adb33464e85f2687b43f87](https://github.com/user-attachments/assets/0f307f88-b9ab-4c13-88a1-7165490650ec)
-</div>
+![e54afabd75adb33464e85f2687b43f87](https://github.com/user-attachments/assets/0f307f88-b9ab-4c13-88a1-7165490650ec)
+
 
 ###
 
