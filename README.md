@@ -3,14 +3,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://t.me/forzzy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Hey there 👋 How's your nothing?</h1>
 
 ###
@@ -64,3 +56,24 @@
 ![github-user-contribution](https://github.com/user-attachments/assets/7ab1efea-ce0d-4c64-9868-8c5394c6eccd)
 
 ###
+
+<h3 align="left">🔥   My Contacts :</h3>
+
+<div align="center">
+  <a href="https://t.me/forzzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://t.me/forzzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://t.me/forzzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://t.me/forzzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://t.me/forzzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+<h4 align="left"><i>Yeah, i don't like other ones...</i></h3>
