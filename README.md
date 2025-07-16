@@ -3,8 +3,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-<h1 align="center">How's your nothing?</h1>
+<h1 align="center">Hey there 👋<br>How's your nothing?</h1>
 
 ###
 
